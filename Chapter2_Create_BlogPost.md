@@ -4,8 +4,7 @@
 
 Create md files for the git repository
 
---
-TrungNEMO
+
 
 4 tệp đính kèm
 # Create a Blog Post(CRUD = Create, Read, Update, Delete)
@@ -20,7 +19,7 @@ We add functionalities to
 ```bash
 python manage.py migrate
 python manage.py createsuperuser
-(user name is : admin, password is ben123)
+(user name is : *****, password is ****)
 ```
 - Then we create a class Blog in the blog\models.py
 ```python
