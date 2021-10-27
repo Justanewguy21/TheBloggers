@@ -177,7 +177,7 @@ def index(request):
         'posts':posts,
         'form': form
     }
-    return render(request, 'blog/index.html', context)
+    return render(request, 'blogs/index.html', context)
 ```
 - We add a form to the templates/blog/index.html
 ```html
