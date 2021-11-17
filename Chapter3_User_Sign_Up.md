@@ -184,4 +184,5 @@ Justanewguy21
 ## License
 [KenBroTech Videos](https://www.youtube.com/playlist?list=PLInvlTu9nmo9Saxdd70M4f0m5jcPrWXd7)
 Chapter3_User_Sign_Up.md
-Hiển thị Chapter1_Layout_Index.md.
+
+
