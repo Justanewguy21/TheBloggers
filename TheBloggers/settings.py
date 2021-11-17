@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog.apps.BlogConfig',
-    'members.apps.MembersCongig',
+    'members.apps.MembersConfig',
     'crispy_forms',
     'crispy_bootstrap5'
     
